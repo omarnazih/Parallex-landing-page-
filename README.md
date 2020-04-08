@@ -1,2 +1,2 @@
 # Parallex-landing-page-
-Trying out the reallax.js lib 
+Trying out reallax.js lib 
